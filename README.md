@@ -1,6 +1,4 @@
-# Jupyter Notebook Repository
-
-This repository contains Jupyter notebooks for various Python-based projects, data analysis, and machine learning experiments.
+# Basic Sports Model
 
 ## Installation
 
